@@ -1,0 +1,8 @@
+{
+	"url": "http://34.101.189.153/",
+	"apitoken": "isi dengan api token anda",
+	"dbhost": "localhost",
+	"dbusername": "root",
+	"dbpassword": "root",
+	"dbname": "simpleblast"
+}
